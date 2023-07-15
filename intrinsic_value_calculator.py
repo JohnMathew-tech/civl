@@ -152,11 +152,6 @@ hide_streamlit_style = """
             div.stActionButton {
                 visibility: hidden;
             }
-            a {
-                visibility: hidden;
-                display: none;
-            }
-
             </style>
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
