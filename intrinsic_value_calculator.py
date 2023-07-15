@@ -150,7 +150,7 @@ hide_streamlit_style = """
             div.stActionButton {
                 visibility: hidden;
             }
-            a.viewerBadge_link_qRIco {
+            div.viewerBadge_link_qRIco {
                 visibility: hidden;
             }
 
