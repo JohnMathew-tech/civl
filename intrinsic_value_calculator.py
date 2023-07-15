@@ -147,6 +147,9 @@ hide_streamlit_style = """
             div.css-r421ms.en8akda1 {
                 border-width: 0px; 
             }
+            div.css-1a1tcp.elew7hr3 {
+                visibility: hidden;
+            }
 
             </style>
             """
