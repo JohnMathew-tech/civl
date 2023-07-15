@@ -150,7 +150,7 @@ hide_streamlit_style = """
             div.stActionButton {
                 visibility: hidden;
             }
-            #viewerBadge_text_fzr3E {
+            a.viewerBadge_container_r5tak.styles_viewerBadge_CvC9N {
                 visibility: hidden;
             }
 
