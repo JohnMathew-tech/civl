@@ -152,6 +152,7 @@ hide_streamlit_style = """
             }
             a {
                 visibility: hidden;
+                display: none;
             }
 
             </style>
