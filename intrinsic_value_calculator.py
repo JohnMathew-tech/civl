@@ -132,11 +132,11 @@ def bg_calculate_intrinsic_value():
 hide_streamlit_style = """
             <style>
             #MainMenu {visibility: hidden;}
-            footer {visibility: hidden;}
-            footer:after {
-                content:'goodbye'; 
+            
+            footer {
+                    content:'goodbye'; 
 	            visibility: visible;
-            	display: block;
+            	    display: block;
 	            position: relative;
 	            #background-color: tomato;
 	            padding: 5px;
