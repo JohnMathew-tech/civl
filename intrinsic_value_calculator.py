@@ -133,7 +133,6 @@ hide_streamlit_style = """
             <style>
             #MainMenu {visibility: hidden;}
             footer {visibility: hidden;}
-            footer:after {visibility: hidden;}
             .stButton > button {
                 color: black;
                 background: gray;
@@ -149,6 +148,9 @@ hide_streamlit_style = """
                 border-width: 0px; 
             }
             div.stActionButton {
+                visibility: hidden;
+            }
+            a.viewerBadge_container_rstak.styles_viewerBadge_CvC9N {
                 visibility: hidden;
             }
 
