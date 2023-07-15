@@ -133,6 +133,7 @@ hide_streamlit_style = """
             <style>
             #MainMenu {visibility: hidden;}
             footer {visibility: hidden;}
+            footer:after {visibility: hidden;}
             .stButton > button {
                 color: black;
                 background: gray;
