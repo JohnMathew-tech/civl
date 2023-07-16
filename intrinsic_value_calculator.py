@@ -152,9 +152,7 @@ hide_streamlit_style = """
             div.stActionButton {
                 visibility: hidden;
             }
-            div.viewerBadge_link_RIco {
-                visibility: hidden;
-            }
+            
             </style>
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
